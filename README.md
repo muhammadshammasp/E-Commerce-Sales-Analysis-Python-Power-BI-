@@ -62,8 +62,8 @@ The final dashboard contains:
 ## ▶ How to Run
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/ecommerce-sales-analysis.git
-   cd ecommerce-sales-analysis
+   git clone https://github.com/muhammadshammasp/E-Commerce-Sales-Analysis-Python-Power-BI-.git
+   cd E-Commerce-Sales-Analysis-Python-Power-BI
 
 2.JUpyter Notebook
 
