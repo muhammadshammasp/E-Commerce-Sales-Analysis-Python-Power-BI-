@@ -49,7 +49,7 @@ The final dashboard contains:
 ![images](dashboard_1.png)
 
 ### Dashboard View 2
-![images](dashboard_2.png)
+![Dashboard 2](dashboard_2.png)
 
 ## 🔍 Key Insights
 - **United Kingdom** dominates sales, contributing the largest share of revenue.
