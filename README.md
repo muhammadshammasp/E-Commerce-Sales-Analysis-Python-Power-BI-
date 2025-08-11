@@ -66,9 +66,9 @@ The final dashboard contains:
 2.JUpyter Notebook
 
 pip install -r requirements.txt
-jupyter notebook Ecommerce_Analysis.ipynb
+jupyter notebook Ecommerce.ipynb
 
 
 3.Open Power BI Dashboard
 
-Open Ecommerce_Dashboard.pbix in Power BI Desktop
+Open Ecommerce.pbix in Power BI Desktop
